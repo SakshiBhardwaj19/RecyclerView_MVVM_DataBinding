@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RecyclerViewMVVM</string>
+    <string name="label_users">Users</string>
+    <string name="label_user_detail">User Detail</string>
+    <string name="label_name">Name: </string>
+    <string name="label_age">Age: </string>
+    <string name="label_location">Location: </string>
+    <string name="label_aboutme">AboutMe: </string>
+</resources>
