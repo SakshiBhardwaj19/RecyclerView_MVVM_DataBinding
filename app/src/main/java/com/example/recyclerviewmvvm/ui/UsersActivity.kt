@@ -6,7 +6,7 @@ import android.os.Bundle
 import androidx.activity.viewModels
 import androidx.databinding.DataBindingUtil
 import androidx.recyclerview.widget.GridLayoutManager
-import com.example.recyclerviewmvvm.IAppConstants
+import com.example.recyclerviewmvvm.util.IAppConstants
 import com.example.recyclerviewmvvm.R
 import com.example.recyclerviewmvvm.databinding.ActivityUsersBinding
 import dagger.hilt.android.AndroidEntryPoint

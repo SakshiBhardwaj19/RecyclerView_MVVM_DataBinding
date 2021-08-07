@@ -2,11 +2,9 @@ package com.example.recyclerviewmvvm.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import androidx.activity.viewModels
 import androidx.databinding.DataBindingUtil
-import com.example.recyclerviewmvvm.IAppConstants
+import com.example.recyclerviewmvvm.util.IAppConstants
 import com.example.recyclerviewmvvm.R
-import com.example.recyclerviewmvvm.data.User
 import com.example.recyclerviewmvvm.databinding.ActivityUserDetailBinding
 import dagger.hilt.android.AndroidEntryPoint
 
